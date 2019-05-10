@@ -1,6 +1,6 @@
 <?php
 
-	
+
 ?><!DOCTYPE html>
 <html lang="en">
 
@@ -30,13 +30,13 @@
             </div>
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    
-                  
+
+
                 </ul>
             </div>
         </div>
     </nav>
-   
+
 
     </div>
  <form method="POST" action="add.php">
@@ -168,13 +168,13 @@
                         <input type="time" class="form-control" name="cseouttime" required>
                     </div>
                 </div>
-            </div> 
+            </div>
             </div>
             <center>
             <div class="modal-footer">
 
         <button type="reset" class="btn btn-default" data-dismiss="modal"><span class="glyphicon glyphicon-remove"></span>Reset</button>
-         <button type="submit" name="add" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-disk"></span> Save</a>
+         <button type="submit" name="CSD" class="btn btn-primary"><span class="glyphicon glyphicon-floppy-disk"></span> Save</a>
 
          </center>
             </form>
